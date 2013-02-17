@@ -1,7 +1,7 @@
 perplexity
 ==========
 
-A collection of python scripts used in some professional projects.
+A collection of python scripts used in datamining projects.
 
 License
 -------
